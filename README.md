@@ -1,3 +1,4 @@
 # the_ultimate_learning
-this is the first repository by me i am learning some new things 
+this is the first repository by me i am learning some new things.
+<br>
 AUTHOR-my name is vedant
